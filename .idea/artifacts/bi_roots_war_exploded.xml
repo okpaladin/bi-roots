@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bi-roots:war exploded">
+    <output-path>$PROJECT_DIR$/target/bi-roots</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bi-roots" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/bi-roots/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="bi-roots/web/Web" />
+    </root>
+  </artifact>
+</component>

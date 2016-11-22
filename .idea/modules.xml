@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bi-common/bi-common.iml" filepath="$PROJECT_DIR$/bi-common/bi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi-core/bi-core.iml" filepath="$PROJECT_DIR$/bi-core/bi-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi-roots.iml" filepath="$PROJECT_DIR$/bi-roots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi-search/bi-search.iml" filepath="$PROJECT_DIR$/bi-search/bi-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi-web/bi-web.iml" filepath="$PROJECT_DIR$/bi-web/bi-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi-common/bi-web (1).iml" filepath="$PROJECT_DIR$/bi-common/bi-web (1).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <parent>
+        <artifactId>bi-roots</artifactId>
+        <groupId>com.fp.bi</groupId>
+        <version>1.0</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>bi-common</artifactId>
+    <name>bi-search Tapestry 5 Application</name>
+
+    <properties>
+        <tapestry-release-version>5.4.1</tapestry-release-version>
+        <servlet-api-release-version>2.5</servlet-api-release-version>
+        <testng-release-version>6.8.21</testng-release-version>
+        <slf4j-release-version>1.7.19</slf4j-release-version>
+
+    </properties>
+
+
+    <dependencies>
+
+    </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.2</version>
+                <configuration>
+                    <encoding>utf-8</encoding>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+    <repositories>
+
+    </repositories>
+
+
+</project>
